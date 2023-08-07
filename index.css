@@ -1,0 +1,308 @@
+body{
+    background-image:400px;
+    background-image:url(b3.jpg) ;
+    background-size: cover;
+    background-attachment:fixed;
+    margin-top: 100px;
+    
+}
+header{
+    display: flex;
+    height: 100%;
+    height: 100px;
+    margin: 5px;
+    font-size: 150px;
+    color: blueviolet;
+}
+#logo{
+    padding: 5%;
+    margin: 100px;
+}
+#home{
+    margin-top: 600px;
+    text-align: center;
+    color:black;
+    font-size: 100px;
+}
+nav ul li{
+    display:inline-block;
+    padding: 20px;
+    font-size: 100px;
+    
+}
+nav ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius:5%;
+    margin-top: 500px;
+    padding-left:100px;
+    font-size: 100px;
+    text-decoration: none;
+}
+header img{
+    height: 900px;
+    width: 980px;
+    padding: 50px;
+   
+}
+nav{
+    margin-bottom: auto;
+    margin-inline: 170px;
+    font-size: 100px;
+    text-align: white;
+
+}
+.grid{
+    
+    display: grid;
+    display: flex;
+    
+}
+#about{
+    background-image: url("about.webp");
+    color:black;
+    font-size:150px;
+    text-align: center;
+   
+    text-decoration: none;
+    
+}
+
+#about a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.H img{
+    background-attachment: fixed;
+    background-image: none;
+}
+.m img{
+    height: 1500px;
+    width:1690px ;
+    border-radius: 10%;
+    border-image: 1000px;
+}
+.grid1
+{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+#move{
+    width: 100%;
+    height: 7000px;
+    background-color: black;
+    overflow: auto auto;
+    white-space: nowrap;
+    padding: 1px;
+}
+#extra{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    overflow: auto auto;
+    white-space: nowrap;
+    padding: 100px 100px 0px 2px;
+    
+}
+#extra .e{
+    display: inline-block;
+    padding-right: 100px;
+    
+}
+#move .slide{
+    display: inline-block;
+    
+}
+
+#h2{
+        color: black;
+        font-size: 150px;
+        text-align: center;
+    }
+
+#form{
+    background-color:plum;
+    margin-left:1400px;
+    padding: 100px;
+    border-radius: 100%;
+    font-size: 100px;
+}
+#menu h2{
+    color:black;
+    font-size: 150px;
+    text-align: center;
+    
+}
+#product h2{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+#menu h3{
+    color:white;
+    font-size: 100px;
+    margin-left: 120px;
+    text-align: center;
+}
+#product h3{
+    color:white;
+    font-size: 100px;
+    margin-left: 420px;
+    text-align: center;
+
+}
+#product img{
+    margin-left: 1900px;
+    background-image: left;
+    display: grid;
+    font-size: 100px;
+    text-align: center;
+    
+}
+#menu img{
+    margin-left: 2900px;
+    text-align: center;
+
+}
+#menu h4{
+    color: burlywood;
+    font-size: 130px;
+    margin-left: 200px;
+    border-image-source: none;
+    text-align: center;
+}
+.h{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-right: 160px;
+}
+#menu video{
+    padding-left: 1700px;
+}
+#History h3{
+    color:black;
+    font-size: 150px;
+    border-radius:10px;
+    text-align: center;
+}
+#History h2{
+       color: white;
+       font-size: 100px;
+       text-align: center;
+}
+.para{
+    text-align: center;
+    font-size: 100px;
+}
+#History {
+     text-align: center;
+     font-size: 100px;
+}
+#move{
+    width: 100%;
+    height: 300px;
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#move .slide{
+    display: inline-block;
+}
+#History pre{
+    color: burlywood;
+    text-align: center;
+    font-size: 100px;
+    text-align: center;
+}
+.m{
+     display: grid;
+}
+
+
+#videos{
+    text-align: center;
+    height: max-content;
+     font-size: 100px;
+     color: white;
+}
+#slide video{
+    padding-left: 150px;
+}
+.Row{
+   display: flex;
+   padding:30px;
+   font-size: 100px;
+   text-align: center;
+
+}
+form{
+    background-color: beige;
+    margin-left: 900px;
+    padding: 50px;
+    font-size: 70px;
+}
+#contact h3{
+    text-align: center;
+    font-size: 150px;
+    
+}
+.main{
+    display:flex;
+    padding: 30px;
+    font-size: 100px;
+}
+#contact form{
+    width: 5000px;
+    height: 1500px;
+    background-color:transparent;
+    margin-left: 400px;
+    padding: 120px;
+    padding-left: 120px;
+    border: 4px solid black;
+    background-color: white;
+    font-size: 70px;
+}
+
+.map{
+    
+    height: 1200px;
+    width: 1500px;
+    color: rgb(161, 160, 160);
+    border: 5px solid black;
+    
+}
+.map iframe{
+    height: 1700px;
+    width: 1800px;
+}
+#footer{
+    display: flex;
+   background-color: aqua,purple,whitesmoke;
+   border:3px solid salmon;
+  font-size: medium;
+   text-align: center;
+   margin-top: 100px;
+   margin-left: 100px;
+}
+footer img{
+    margin-top:5px;
+    padding-left:10px;
+    background-image:200px;
+}
+.footer icon{
+     background-image: image(1000%);
+     text-align: center;
+}.history pre{
+    text-align: center;
+    font-size: 100px;
+    margin-left: 300px;
+}
+
+
+
+
+
